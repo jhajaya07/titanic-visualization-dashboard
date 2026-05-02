@@ -68,4 +68,4 @@ This project demonstrates how visualization and storytelling can transform raw d
 
 ## 👨‍💻 Author
 
-Adarsh Anand
+Jaya Jha
